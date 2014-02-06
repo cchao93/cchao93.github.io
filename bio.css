@@ -2,7 +2,7 @@ body {
         border-style: ridge;
         text-align: center;
         font-family: "Palatino Linotype";
-        background-color: CCFFFF;
+        background-color: #CCFFFF;
 }
 #title {
         text-decoration: underline;
@@ -17,3 +17,4 @@ body {
         color:red;
         font-style: italic;
         font-size: 16px;
+}

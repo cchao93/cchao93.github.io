@@ -2,20 +2,19 @@ body {
         font-family: "Palatino Linotype";
         text-align: center;
         border-style: double;
-        border-color: 000099;
+        border-color: #000099;
         height: 800px;
         width: 500px;
         margin-left: 375px;
-        background-color: CCFFFF;
+        background-color: #CCFFFF;
 }
 h1 {
         font-size: 60px;
 }
 
 img {
-        float: center;
-        height: 510;
-        width: 340;
+        height: 510px;
+        width: 340px;
 }
 
 #links {

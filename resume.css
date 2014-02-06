@@ -1,7 +1,7 @@
 body {
         border-style: ridge;
         font-family: "Palatino Linotype";
-        background-color: CCFFFF;
+        background-color: #CCFFFF;
 }
 #name {
         font-size: 48px;
@@ -10,14 +10,14 @@ body {
         margin: 0px;
 }
 #email {
-        color: 000099;
+        color: #000099;
         font-size: 20px;
         font-style: italic;
         text-align: center;
         
 }
 .type {
-        color: 000099;
+        color: #000099;
         font-size: 24px;
         font-style: italic;
 }
@@ -36,3 +36,4 @@ body {
         color:red;
         font-style: italic;
         font-size: 16px;
+}
