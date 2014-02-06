@@ -1,0 +1,19 @@
+body {
+        border-style: ridge;
+        text-align: center;
+        font-family: "Palatino Linotype";
+        background-color: CCFFFF;
+}
+#title {
+        text-decoration: underline;
+        font-size: 48px;
+}
+#content {
+        font-style: italic;
+        font-size: 20px;
+}
+#link {
+        text-align: center;
+        color:red;
+        font-style: italic;
+        font-size: 16px;
